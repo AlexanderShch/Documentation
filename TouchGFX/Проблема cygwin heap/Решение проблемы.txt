@@ -1,0 +1,5 @@
+The problem is gone.
+
+REBASE method is working. I used MS Studio editbin.exe.
+
+“C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\amd64\editbin�? /rebase:base=0x50000000 msys-1.0.dll
